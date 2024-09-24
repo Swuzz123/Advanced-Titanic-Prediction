@@ -25,13 +25,13 @@ Dependencies:
     * `train.csv` : Training data
     * `test.csv` : Testing data
 * Visualizations: Includes all plots generated from the training data
-   * `AgeGroup-Survived.jpg` : Plot of AgeGroup vs. Survived features
-   * `CabinBool-Survived.jpg` : Plot of CabinBool vs. Survived features
-   * `Parch-Survived.jpg` : Plot of Parch vs. Survived features
-   * `Pclass-Survived.jpg` : Plot of Pclass vs. Survived features
-   * `Sex-Survived.jpg` : Plot of Sex vs. Survived features
-   * `SibSp-Survived.jpg` : Plot of SibSp vs. Survived features
-* Output: Includes submission file generated from Random Forest model
+   * `AgeGroup-Survived.png` : Plot of AgeGroup vs. Survived features
+   * `CabinBool-Survived.png` : Plot of CabinBool vs. Survived features
+   * `Parch-Survived.png` : Plot of Parch vs. Survived features
+   * `Pclass-Survived.png` : Plot of Pclass vs. Survived features
+   * `Sex-Survived.png` : Plot of Sex vs. Survived features
+   * `SibSp-Survived.png` : Plot of SibSp vs. Survived features
+* Output: Includes result file generated from Random Forest model
    * `result.csv` : Predictions file
 
 This Notebook will show basic examples of:
