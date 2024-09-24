@@ -4,8 +4,6 @@
 
 Using Machine learning algorithm on the famous Titanic Disaster Dataset for Predicting the survival of the passenger
                                                                     
-# Titanic: Machine Learning from Disaster
-
 ## Overview
 This is my first attempt at Kaggle's beginner machine learning excercise.
 
