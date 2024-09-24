@@ -4,7 +4,12 @@
 
 Using Machine learning algorithm on the famous Titanic Disaster Dataset for Predicting the survival of the passenger
                                                                     
-The most famous competition over the kaggle . In this Repository my intention is to basically explain to every beginner but how to begin with Kaggle very first time. So this repository is for those who just begin their Machine Learning Journey. In this notebook i try to take down every single topic with a very naive approach so every beginner can grasp it very easily.
+# Titanic: Machine Learning from Disaster
+
+## Overview
+This is my first attempt at Kaggle's beginner machine learning excercise.
+
+Titanic competition: https://www.kaggle.com/c/titanic
 
 Dependencies:
 
@@ -15,10 +20,27 @@ Dependencies:
     Supervised Learning
     Machine Learning Algorithm
     Classification Algorithms
-    
+
+## What's in this Repository?
+* `titanic.ipynb` : The Jupyter notebook that includes all explanations, code and visualizations
+* Data: Includes dataset provided by Kaggle for the competition
+    * `train.csv` : Training data
+    * `test.csv` : Testing data
+* Visualizations: Includes all plots generated from the training data
+   * `AgeGroup-Survived.jpg` : Plot of AgeGroup vs. Survived features
+   * `CabinBool-Survived.jpg` : Plot of CabinBool vs. Survived features
+   * `Parch-Survived.jpg` : Plot of Parch vs. Survived features
+   * `Pclass-Survived.jpg` : Plot of Pclass vs. Survived features
+   * `Sex-Survived.jpg` : Plot of Sex vs. Survived features
+   * `SibSp-Survived.jpg` : Plot of SibSp vs. Survived features
+* Output: Includes submission file generated from Random Forest model
+   * `result.csv` : Predictions file
+
 This Notebook will show basic examples of:
 
     Data Handling
     Importing Data with Pandas
     Cleaning Data
     Exploring Data through Visualizations with Matplotlib
+    
+
